@@ -1,6 +1,6 @@
 # historeel
 
-A [Motion Canvas](https://motioncanvas.io/) project with an AI-powered chat plugin that lets you modify animations using natural language.
+A [Motion Canvas](https://motioncanvas.io/) project with an AI-powered chat plugin that lets you modify videos using natural language.
 
 Describe what you want to change in the animation (e.g. "make the background blue and add a bouncing ball"), and the AI will rewrite the scene file live — no manual code editing required.
 
